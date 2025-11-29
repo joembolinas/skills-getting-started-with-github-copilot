@@ -81,6 +81,19 @@ section h3 {
   color: #555;
 }
 
+/* Participant list specific styling */
+.participants-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.participants-list li {
+  padding: 2px 0;
+  /* Emphasize individual participant entries */
+  font-size: 14px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
